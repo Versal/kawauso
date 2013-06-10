@@ -1,0 +1,5 @@
+test,function,input 1,input 2,expected output
+Addition,add,1,1,2
+Subtraction,subtract,2,1,1
+Multiplication,multiply,2,3,6
+Division,divide,6,3,2
