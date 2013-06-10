@@ -2,13 +2,7 @@
 
 Kawauso is a test-driven application that demonstrates using [FireOtter](https://github.com/Versal/fireotter) for spreadsheet-based test specification.
 
-## Testing specifications
-
-Tests in Kawauso are derived from human-readable specifications living in a spreadsheet under *src/test/resources/arithmetic.csv*.
-
-## Test-driven development
-
-Application features are built in response to new (failing) tests added as specifications to the spreadsheet.
+Tests in Kawauso are derived from human-readable specifications living in a spreadsheet under *src/test/resources/arithmetic.csv*.  Application features are built in response to new (failing) tests added as specifications to the spreadsheet.
 
 ## Example
 
